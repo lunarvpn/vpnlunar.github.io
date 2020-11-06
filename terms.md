@@ -205,4 +205,4 @@ By continuing to access or use Our Service after those revisions become effectiv
 
 If you have any questions about these Terms and Conditions, You can contact us:
 
-*   By email: lunarvpn@yandex.ru
+*   By email: lunarvpn@yandex.ru.
