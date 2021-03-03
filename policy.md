@@ -23,6 +23,12 @@ Link to privacy policy of third party service providers used by the app
 *   [Firebase Crashlytics](https://www.google.com/url?q=https://firebase.google.com/terms/crashlytics&sa=D&ust=1586768281771000)
 *   [Facebook](https://www.google.com/url?q=https://www.facebook.com/legal/terms/plain_text_terms&sa=D&ust=1586768281771000)
 
+## Processing of your data
+
+A virtual private network (VPN) extends a private network across a public network, and enables users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network. Applications running across a VPN may therefore benefit from the functionality, security, and management of the private network.
+From the moment a user turns on our service, their Internet data becomes private and safety. We guarantees a strict no-logs policy for our service, meaning that your activities using our service are provided by automated technical process, are not monitored, recorded, logged, stored or passed to any third party. We do not store connection time stamps, session information, used bandwidth, traffic logs, IP addresses or other data. Any online traffic coming from user’s device is no longer visible to ISP, third-party snoopers or cyber criminals.
+
+
 ## Log Data
 
 I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
@@ -45,7 +51,7 @@ I want to inform users of this Service that these third parties have access to y
 
 ## Security
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+We are very concerned about safeguarding the confidentiality of your information. We do not collect Personal Information, and we employ administrative, physical and electronic measures designed to protect your Non-Personal Information from unauthorized access and use. Please be aware that no security measures that we take to protect your information is absolutely guaranteed to avoid unauthorized access or use of your Non-Personal Information which is impenetrable.
 
 ## Links to Other Sites
 
